@@ -39,6 +39,7 @@ assert fibR(6) == 7
 
 ### Output:
 
+![383941510-272d41af-f915-4ad5-b8b2-26ce182f153d](https://github.com/user-attachments/assets/917d9881-d400-4dcd-b122-48e99345b663)
 
 
 ### Result:
