@@ -1,3 +1,9 @@
+## Ex.No: 5 BINARY SEARCH (check whether the Binary Search and inspect for failures).
+
+## DATE: 
+
+## REGISTER NUMBER : 212221040022
+
 ### AIM: 
 Write a python program to check the number is Armstrong number or not and inspect for failures.
 
@@ -14,7 +20,7 @@ Write a python program to check the number is Armstrong number or not and inspec
 9.	Stop the program.
 
 ### Program:
-
+```
 def binary_search(arr, x): 
     low = 0 
     high = len(arr) - 1
@@ -43,7 +49,7 @@ try:
         print("Element is not present in array") 
 except ValueError:  # Catching specific exception for invalid integer conversion
     print("Enter a valid integer input!")
-
+```
 
 
 
@@ -57,6 +63,7 @@ except ValueError:  # Catching specific exception for invalid integer conversion
 
 
 ### Output:
+```
 Enter the element to be searched:
 Enter a valid input!
  Test Case: Fail
@@ -80,7 +87,7 @@ Test Case: Fail
 Enter the element to be searched: -10 20
 Enter a valid input!
 Test Case: Fail
-
+```
 
 
 
