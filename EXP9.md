@@ -39,6 +39,7 @@ assert sumOfDigits(256) == 2
 
 ### Output:
 
+![383940670-0d28fe04-b47d-4e13-b71a-12f81f9d622b](https://github.com/user-attachments/assets/fdb48a12-42f8-4bf7-bc17-fb822f1313c5)
 
 
 ### Result:
